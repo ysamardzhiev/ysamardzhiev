@@ -1,5 +1,6 @@
 ### Hey, I'm Yoan Samardzhiev 👋
 
+🎓 Currently studying software engineering at @SoftUni
 <!--
 **ysamardzhiev/ysamardzhiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
