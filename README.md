@@ -1,4 +1,4 @@
-### Hey, I'm Yoan Samardzhiev 👋
+### Hey, I am Yoan Samardzhiev 👋
 
 🎓 Currently studying software engineering at @SoftUni
 <!--
